@@ -1,0 +1,4 @@
+return {
+    ["KeysWRD"] = "SHINDOOOOOOO121212121212124D",
+    ["KeysOthers"] = "gposcriptkey732832",
+}
